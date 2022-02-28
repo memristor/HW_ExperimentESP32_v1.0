@@ -1,7 +1,8 @@
-Record=TopLevelDocument|FileName=BUCK_5v_TPS54340_P-MOS.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=BUCK_5v_TPS54340_P-MOS.SchDoc|FileName=esp32.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=BUCK_5v_TPS54340_P-MOS.SchDoc|FileName=LDO_3v3_LM2937.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=BUCK_5v_TPS54340_P-MOS.SchDoc|FileName=MCLR.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=BUCK_5v_TPS54340_P-MOS.SchDoc|FileName=MOSFET_IRF540.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=BUCK_5v_TPS54340_P-MOS.SchDoc|FileName=Sheet1.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=BUCK_5v_TPS54340_P-MOS.SchDoc|FileName=UART.SchDoc|SheetNumber=6
+Record=TopLevelDocument|FileName=ESP32_top.SchDoc|SheetNumber=3
+Record=SheetSymbol|SourceDocument=ESP32_top.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=UART.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=UART.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=ESP32_top.SchDoc|Designator=U_BUCK_5v_TPS54340_P-MOS|SchDesignator=U_BUCK_5v_TPS54340_P-MOS|FileName=BUCK_5v_TPS54340_P-MOS.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=BUCK_5v_TPS54340_P-MOS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=ESP32_top.SchDoc|Designator=U_esp32|SchDesignator=U_esp32|FileName=esp32.SchDoc|SheetNumber=8|SymbolType=Normal|RawFileName=esp32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=ESP32_top.SchDoc|Designator=U_LDO_3v3_LM2937|SchDesignator=U_LDO_3v3_LM2937|FileName=LDO_3v3_LM2937.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=LDO_3v3_LM2937.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=ESP32_top.SchDoc|Designator=U_MCLR|SchDesignator=U_MCLR|FileName=MCLR.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=MCLR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=ESP32_top.SchDoc|FileName=MOSFET_IRF540.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ESP32_top.SchDoc|FileName=Sheet1.SchDoc|SheetNumber=2
