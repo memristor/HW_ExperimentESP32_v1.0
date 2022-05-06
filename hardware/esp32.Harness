@@ -1,0 +1,3 @@
+esp.32 UART=RXD,TXD
+esp32. encoder=EA,EB
+esp32. h_bridge=INH,INA,ISA,INB,ISB
